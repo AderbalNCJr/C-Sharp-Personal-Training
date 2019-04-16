@@ -1,0 +1,7 @@
+using System; //this program was made to be compiled directly from the cmd
+
+class HelloWorld {
+	static void Main(string[] args) {
+		Console.WriteLine("Hello World !");
+	}
+}
